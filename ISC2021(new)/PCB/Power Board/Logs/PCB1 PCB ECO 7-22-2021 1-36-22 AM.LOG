@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VOUT Pin=Q0-2
+Removed Pin From Net: NetName=VCC Pin=Q0-3
+Change Component DesignItemId : Designator=Q0 Old DesignItemId=SINGLE N-MOSFET New DesignItemId=SINGLE P-MOSFET
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=SINGLE P-MOSFET New DesignItemId=SINGLE N-MOSFET
+Change Component Comment : Designator=Q0 Old Comment=SINGLE N-MOSFET New Comment=SQM40061EL_GE3
+Change Component Comment : Designator=Q1 Old Comment=SINGLE P-MOSFET New Comment=2N7002
+Added Pin To Net: NetName=VCC Pin=Q0-2
+Added Pin To Net: NetName=VOUT Pin=Q0-3

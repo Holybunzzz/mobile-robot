@@ -1,0 +1,74 @@
+Added Component: Designator=Batt_in_0(691213510002)
+Added Component: Designator=Batt_in_1(691213510002)
+Added Component: Designator=C0(CAP 1206/3216 - 1.8MM)
+Added Component: Designator=C1(CAP AL TH D10 L5 H14.5)
+Added Component: Designator=D0(LED 0603/1608 BLUE)
+Added Component: Designator=Fuse(356810)
+Added Component: Designator=J0(691213510002)
+Added Component: Designator=J1(691213510002)
+Added Component: Designator=J2(691213510002)
+Added Component: Designator=J3(691213510002)
+Added Component: Designator=Q0(TD03B_N)
+Added Component: Designator=Q1(SOT-23-3)
+Added Component: Designator=R0(RES 0603/1608 RF)
+Added Component: Designator=R1(RES 0603/1608 RF)
+Added Component: Designator=R2(RES 0603/1608 RF)
+Added Component: Designator=R3(RES 0603/1608 RF)
+Added Component: Designator=R4(RES 0603/1608 RF)
+Added Component: Designator=SW(JST XH B4B-XH-A)
+Added Component: Designator=Voltmeter(JST XH B2B-XH-A)
+Added Pin To Net: NetName=GND Pin=Batt_in_1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=D0-2
+Added Pin To Net: NetName=GND Pin=J0-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=SW-4
+Added Pin To Net: NetName=GND Pin=Voltmeter-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBatt_in_0_1 Pin=Batt_in_0-1
+Added Pin To Net: NetName=NetBatt_in_0_1 Pin=Batt_in_1-2
+Added Net: Name=NetBatt_in_0_1
+Added Pin To Net: NetName=NetBatt_in_0_2 Pin=Batt_in_0-2
+Added Pin To Net: NetName=NetBatt_in_0_2 Pin=Fuse-1
+Added Pin To Net: NetName=NetBatt_in_0_2 Pin=Fuse-4
+Added Net: Name=NetBatt_in_0_2
+Added Pin To Net: NetName=NetC0_1 Pin=C0-1
+Added Pin To Net: NetName=NetC0_1 Pin=Q0-1
+Added Pin To Net: NetName=NetC0_1 Pin=R2-1
+Added Pin To Net: NetName=NetC0_1 Pin=R3-2
+Added Net: Name=NetC0_1
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=R4-1
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=SW_A Pin=R0-1
+Added Pin To Net: NetName=SW_A Pin=SW-2
+Added Net: Name=SW_A
+Added Pin To Net: NetName=SW_B Pin=Q1-1
+Added Pin To Net: NetName=SW_B Pin=R1-2
+Added Pin To Net: NetName=SW_B Pin=SW-3
+Added Net: Name=SW_B
+Added Pin To Net: NetName=VCC Pin=C0-2
+Added Pin To Net: NetName=VCC Pin=Fuse-2
+Added Pin To Net: NetName=VCC Pin=Fuse-3
+Added Pin To Net: NetName=VCC Pin=Q0-3
+Added Pin To Net: NetName=VCC Pin=R0-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VOUT Pin=C1-1
+Added Pin To Net: NetName=VOUT Pin=J0-2
+Added Pin To Net: NetName=VOUT Pin=J1-2
+Added Pin To Net: NetName=VOUT Pin=J2-2
+Added Pin To Net: NetName=VOUT Pin=J3-2
+Added Pin To Net: NetName=VOUT Pin=Q0-2
+Added Pin To Net: NetName=VOUT Pin=R4-2
+Added Pin To Net: NetName=VOUT Pin=SW-1
+Added Pin To Net: NetName=VOUT Pin=Voltmeter-1
+Added Net: Name=VOUT
+Added Class: Name=Main

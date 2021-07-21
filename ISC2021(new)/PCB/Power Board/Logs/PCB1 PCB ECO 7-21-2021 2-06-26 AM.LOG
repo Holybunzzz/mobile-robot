@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=Batt_in_0 NewDesignator=Batt_in_1
+Change Component Designator: OldDesignator=Batt_in_1 NewDesignator=Batt_in_0
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Net Name : Old Net Name=NetBatt_in_1 New Net Name=NetBatt_in_0_1
+Change Net Name : Old Net Name=NetBatt_in_2 New Net Name=NetBatt_in_0_2
+Added Member To Class: ClassName=Main Member=Component Batt_in_1 2 Pin
+Added Member To Class: ClassName=Main Member=Component R4 51K
