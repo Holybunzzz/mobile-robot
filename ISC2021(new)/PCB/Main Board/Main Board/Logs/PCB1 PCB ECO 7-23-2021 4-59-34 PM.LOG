@@ -1,0 +1,41 @@
+Added Component: Designator=C1(CAP POL 2917/7343)
+Added Component: Designator=DC-DC Regulator 24-12(MP1584EN DC-DC)
+Added Component: Designator=IC0(SOT95P280X145-5N)
+Added Component: Designator=IC1(SOIC127P600X175-14N)
+Added Component: Designator=J?(myRIO_MXP_Port_Vertical)
+Added Component: Designator=R0(RES 0603/1608 RF)
+Added Component: Designator=R1(RES 0603/1608 RF)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=DC-DC Regulator 24-12-0
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-12-1
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-12-3
+Added Pin To Net: NetName=GND Pin=IC0-3
+Added Pin To Net: NetName=+5 Pin=IC0-5
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=+5 Pin=IC1-14
+Added Pin To Net: NetName=+5 Pin=R0-2
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=-7.4 Pin=C1-1
+Added Pin To Net: NetName=-7.4 Pin=DC-DC Regulator 24-12-2
+Added Net: Name=-7.4
+Added Pin To Net: NetName=A/RX Pin=IC1-6
+Added Net: Name=A/RX
+Added Pin To Net: NetName=A/TX_EN Pin=IC0-4
+Added Pin To Net: NetName=A/TX_EN Pin=IC1-1
+Added Net: Name=A/TX_EN
+Added Pin To Net: NetName=A/TX_O Pin=IC0-2
+Added Pin To Net: NetName=A/TX_O Pin=IC1-2
+Added Pin To Net: NetName=A/TX_O Pin=IC1-4
+Added Pin To Net: NetName=A/TX_O Pin=IC1-11
+Added Pin To Net: NetName=A/TX_O Pin=R0-1
+Added Net: Name=A/TX_O
+Added Pin To Net: NetName=A/TX Pin=IC1-12
+Added Net: Name=A/TX
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_13 Pin=R1-2
+Added Net: Name=NetIC1_13
+Added Pin To Net: NetName=SERVO_DATA Pin=IC1-3
+Added Pin To Net: NetName=SERVO_DATA Pin=IC1-5
+Added Net: Name=SERVO_DATA
+Added Class: Name=UART-One Wire
+Added Member To Class: ClassName=IO Member=Component J? 2x17 Pin

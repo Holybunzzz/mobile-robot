@@ -1,0 +1,19 @@
+Added Component: Designator=IC0(SOT95P280X145-5N)
+Added Component: Designator=IC1(SOIC127P600X175-14N)
+Added Pin To Net: NetName=A/TX_O Pin=IC0-2
+Added Pin To Net: NetName=GND Pin=IC0-3
+Added Pin To Net: NetName=A/TX_EN Pin=IC0-4
+Added Pin To Net: NetName=+5 Pin=IC0-5
+Added Pin To Net: NetName=A/TX_EN Pin=IC1-1
+Added Pin To Net: NetName=A/TX_O Pin=IC1-2
+Added Pin To Net: NetName=SERVO_DATA Pin=IC1-3
+Added Pin To Net: NetName=A/TX_O Pin=IC1-4
+Added Pin To Net: NetName=SERVO_DATA Pin=IC1-5
+Added Pin To Net: NetName=A/RX Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=A/TX_O Pin=IC1-11
+Added Pin To Net: NetName=A/TX Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=+5 Pin=IC1-14
+Added Member To Class: ClassName=UART-One Wire Member=Component IC0 SN74AHC1G04
+Added Member To Class: ClassName=UART-One Wire Member=Component IC1 SN74HC126D
