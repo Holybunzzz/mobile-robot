@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=UART-One Wire Member=R0
+Removed Member From Class: ClassName=UART-One Wire Member=R1
+Change Component Designator: OldDesignator=R0 NewDesignator=R8
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Added Component: Designator=14(RES 0603/1608 RF)
+Added Component: Designator=D0(LED 0603/1608 BLUE)
+Added Component: Designator=D1(LED 0603/1608 BLUE)
+Added Component: Designator=D2(LED 0603/1608 BLUE)
+Added Component: Designator=D3(LED 0603/1608 BLUE)
+Added Component: Designator=R11(RES 0603/1608 RF)
+Added Component: Designator=R12(RES 0603/1608 RF)
+Added Component: Designator=R13(RES 0603/1608 RF)
+Added Pin To Net: NetName=+5 Pin=14-2
+Added Pin To Net: NetName=GND Pin=D0-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=+24 Pin=R11-2
+Added Pin To Net: NetName=+12 Pin=R12-2
+Added Pin To Net: NetName=+7.4 Pin=R13-2
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR10_1
+Added Pin To Net: NetName=Net14_1 Pin=14-1
+Added Pin To Net: NetName=Net14_1 Pin=D3-1
+Added Net: Name=Net14_1
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=R11-1
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R12-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R13-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Main Member=Component 14 1K
+Added Member To Class: ClassName=Main Member=Component D0 Green
+Added Member To Class: ClassName=Main Member=Component D1 Green
+Added Member To Class: ClassName=Main Member=Component D2 Green
+Added Member To Class: ClassName=Main Member=Component D3 Green
+Added Member To Class: ClassName=UART-One Wire Member=Component R7 10K
+Added Member To Class: ClassName=UART-One Wire Member=Component R8 1K
+Added Member To Class: ClassName=Main Member=Component R11 1K
+Added Member To Class: ClassName=Main Member=Component R12 1K
+Added Member To Class: ClassName=Main Member=Component R13 1K

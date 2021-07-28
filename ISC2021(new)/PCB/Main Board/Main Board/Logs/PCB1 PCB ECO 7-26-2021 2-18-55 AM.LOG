@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=BZ&LT Member=R7
+Removed Member From Class: ClassName=BZ&LT Member=R8
+Removed Member From Class: ClassName=Main Member=R9
+Removed Member From Class: ClassName=Main Member=R10
+Change Component Designator: OldDesignator=14 NewDesignator=r14
+Change Net Name : Old Net Name=Net14_1 New Net Name=NetD3_1
+Added Member To Class: ClassName=BZ&LT Member=Component R0 10K
+Added Member To Class: ClassName=BZ&LT Member=Component R1 10K
+Added Member To Class: ClassName=Main Member=Component R12 1K
+Added Member To Class: ClassName=Main Member=Component R13 1K

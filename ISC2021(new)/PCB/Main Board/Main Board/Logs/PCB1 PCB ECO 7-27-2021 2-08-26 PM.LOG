@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=USB0-
+Removed Pin From Net: NetName=GND Pin=USB0-
+Removed Pin From Net: NetName=GND Pin=USB1-
+Removed Pin From Net: NetName=GND Pin=USB1-
+Removed Pin From Net: NetName=GND Pin=USB2-
+Removed Pin From Net: NetName=GND Pin=USB2-
+Added Member To Class: ClassName=IO Member=Component M2 XT30(2+2)

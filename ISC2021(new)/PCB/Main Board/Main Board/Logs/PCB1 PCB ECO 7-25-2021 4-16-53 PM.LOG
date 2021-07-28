@@ -1,0 +1,24 @@
+Added Component: Designator=IC2(SOP64P600X175-28N)
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_11 Pin=IC2-11
+Added Pin To Net: NetName=+1.8 Pin=IC2-12
+Added Pin To Net: NetName=+3.3 Pin=IC2-13
+Added Pin To Net: NetName=NetIC2_14 Pin=IC2-14
+Added Pin To Net: NetName=NetDATA_IN_2 Pin=IC2-15
+Added Pin To Net: NetName=NetDATA_IN_3 Pin=IC2-16
+Added Pin To Net: NetName=+3.3 Pin=IC2-17
+Added Pin To Net: NetName=+3.3 Pin=IC2-18
+Added Pin To Net: NetName=+3.3 Pin=IC2-19
+Added Pin To Net: NetName=+5 Pin=IC2-20
+Added Pin To Net: NetName=+3.3 Pin=IC2-21
+Added Pin To Net: NetName=NetIC2_22 Pin=IC2-22
+Added Pin To Net: NetName=+3.3 Pin=IC2-26
+Added Pin To Net: NetName=+1.8 Pin=IC2-28
+Added Member To Class: ClassName=FE1.Sa Member=Component IC2 FE1.1S

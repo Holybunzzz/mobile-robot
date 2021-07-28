@@ -9,12 +9,6 @@ Generating : Top Layer
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
     Adding Layer      : Multi-Layer
 
 
@@ -38,12 +32,6 @@ Used DCodes :
     D26
     D27
     D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
 *************************************************************
 
 *************************************************************
@@ -54,19 +42,13 @@ Generating : Bottom Layer
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D18
+    D17
     D19
-    D21
+    D20
     D22
     D23
     D24
@@ -74,12 +56,6 @@ Used DCodes :
     D26
     D27
     D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
 *************************************************************
 
 *************************************************************
@@ -92,26 +68,14 @@ Generating : Bottom Pad Master
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
+    D17
     D22
     D23
     D24
     D25
     D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
 *************************************************************
 
 *************************************************************
@@ -124,12 +88,6 @@ Generating : Top Pad Master
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
     D10
@@ -139,18 +97,12 @@ Used DCodes :
     D14
     D15
     D16
-    D19
+    D17
     D22
     D23
     D24
     D25
     D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
 *************************************************************
 
 *************************************************************
@@ -161,26 +113,18 @@ Generating : Top Overlay
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
     D35
     D36
     D37
-    D38
-    D39
 *************************************************************
 
 *************************************************************
@@ -190,12 +134,6 @@ Generating : Top Paste
     Adding Layer      : Top Paste
 
     Adding Layer      : Outline
-
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
 
     Adding Layer      : Top Layer
 
@@ -210,13 +148,7 @@ Used DCodes :
     D14
     D15
     D16
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
 *************************************************************
 
 *************************************************************
@@ -227,25 +159,15 @@ Generating : Top Solder
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
+    D38
+    D39
     D40
     D41
     D42
@@ -256,9 +178,6 @@ Used DCodes :
     D47
     D48
     D49
-    D50
-    D51
-    D52
 *************************************************************
 
 *************************************************************
@@ -269,31 +188,18 @@ Generating : Bottom Solder
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
+    D45
+    D46
     D47
     D48
     D49
-    D50
-    D51
-    D52
 *************************************************************
 
 *************************************************************
@@ -304,25 +210,13 @@ Generating : Bottom Paste
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
 *************************************************************
 
 *************************************************************
@@ -333,21 +227,10 @@ Generating : Bottom Overlay
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
+    D33
 *************************************************************
 
 *************************************************************
@@ -358,21 +241,9 @@ Generating : Keep-Out Layer
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
 *************************************************************
 
 *************************************************************
@@ -383,21 +254,9 @@ Generating : Outline
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
 *************************************************************
 
 *************************************************************
@@ -408,21 +267,11 @@ Generating : 3D Top
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
+    D31
+    D33
 *************************************************************
 
 *************************************************************
@@ -433,21 +282,12 @@ Generating : Courtyard Top
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
+    D31
+    D33
+    D50
 *************************************************************
 
 *************************************************************
@@ -458,21 +298,12 @@ Generating : Courtyard Bottom
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
+    D30
+    D32
+    D51
 *************************************************************
 
 *************************************************************
@@ -483,26 +314,14 @@ Generating : Multi-Layer
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
+    D17
     D22
     D23
     D24
     D25
     D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
 *************************************************************
 
 *************************************************************
@@ -513,20 +332,8 @@ Generating : Dielectric 1
 
     Adding Layer      : Outline
 
-    Adding Layer      : 3D Top
-
-    Adding Layer      : Courtyard Top
-
-    Adding Layer      : Courtyard Bottom
-
 
 Used DCodes :
-    D19
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
+    D17
 *************************************************************
 

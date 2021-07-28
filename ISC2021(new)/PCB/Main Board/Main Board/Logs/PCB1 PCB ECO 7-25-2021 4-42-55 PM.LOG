@@ -1,0 +1,18 @@
+Added Component: Designator=M0(XT30PB(2+2))
+Added Component: Designator=M1(XT30PB(2+2))
+Added Component: Designator=M2(XT30PB(2+2))
+Added Pin To Net: NetName=+24 Pin=M0-1
+Added Pin To Net: NetName=GND Pin=M0-2
+Added Pin To Net: NetName=B_DIO1 Pin=M0-3
+Added Pin To Net: NetName=B_DIO0 Pin=M0-4
+Added Pin To Net: NetName=+24 Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=B_DIO3 Pin=M1-3
+Added Pin To Net: NetName=B_DIO2 Pin=M1-4
+Added Pin To Net: NetName=+24 Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=B_DIO5 Pin=M2-3
+Added Pin To Net: NetName=B_DIO4 Pin=M2-4
+Added Member To Class: ClassName=IO Member=Component M0 XT30(2+2)
+Added Member To Class: ClassName=IO Member=Component M1 XT30(2+2)
+Added Member To Class: ClassName=IO Member=Component M2 XT30(2+2)

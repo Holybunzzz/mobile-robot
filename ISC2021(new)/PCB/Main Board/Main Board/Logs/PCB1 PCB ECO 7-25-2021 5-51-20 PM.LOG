@@ -1,0 +1,411 @@
+Added Component: Designator=12Vout_0(JST XH B2B-XH-A)
+Added Component: Designator=12Vout_1(JST XH B2B-XH-A)
+Added Component: Designator=12Vout_2(JST XH B2B-XH-A)
+Added Component: Designator=BOTTON.0(JST B2B-PH-K)
+Added Component: Designator=BOTTON.1(JST B2B-PH-K)
+Added Component: Designator=BZ(BZ ZK-1205S)
+Added Component: Designator=C0(CAP POL 2917/7343)
+Added Component: Designator=C1(CAP POL 2917/7343)
+Added Component: Designator=C2(CAP POL 2917/7343)
+Added Component: Designator=C3(CAP AL TH D10 L5 H14.5)
+Added Component: Designator=C10(CAP 1206/3216 - 1.8MM)
+Added Component: Designator=C11(CAP 0603/1608 RF)
+Added Component: Designator=C12(CAP 1206/3216 - 1.8MM)
+Added Component: Designator=C13(CAP 0603/1608 RF)
+Added Component: Designator=C14(CAP 1206/3216 - 1.8MM)
+Added Component: Designator=C15(CAP 0603/1608 RF)
+Added Component: Designator=CAM LIGHT(JST B3B-PH-K)
+Added Component: Designator=DATA_IN(JST B4B-PH-K)
+Added Component: Designator=DC-DC Regulator 24-5(MP1584EN DC-DC)
+Added Component: Designator=DC-DC Regulator 24-7.4(MP1584EN DC-DC)
+Added Component: Designator=DC-DC Regulator 24-12(MP1584EN DC-DC)
+Added Component: Designator=EMS(JST B3B-PH-K)
+Added Component: Designator=I2C_A(JST B4B-PH-K)
+Added Component: Designator=IC0(SOT95P280X145-5N)
+Added Component: Designator=IC1(SOIC127P600X175-14N)
+Added Component: Designator=IC2(SOP64P600X175-28N)
+Added Component: Designator=IR.0(JST B3B-PH-K)
+Added Component: Designator=IR.1(JST B3B-PH-K)
+Added Component: Designator=IR.2(JST B3B-PH-K)
+Added Component: Designator=IR.3(JST B3B-PH-K)
+Added Component: Designator=LT0(JST B2B-PH-K)
+Added Component: Designator=LT1(JST B2B-PH-K)
+Added Component: Designator=M0(XT30PB(2+2))
+Added Component: Designator=M1(XT30PB(2+2))
+Added Component: Designator=M2(XT30PB(2+2))
+Added Component: Designator=PORT_A(myRIO_MXP_Port_Vertical)
+Added Component: Designator=PORT_B(myRIO_MXP_Port_Vertical)
+Added Component: Designator=PORT_C(JST S12B-PH-K)
+Added Component: Designator=Q0(SOT-23-3)
+Added Component: Designator=Q1(SOT-23-3)
+Added Component: Designator=Q2(SOT-23-3)
+Added Component: Designator=R0(RES 0603/1608 RF)
+Added Component: Designator=R0(RES 1206/3216 RF)
+Added Component: Designator=R1(RES 0603/1608 RF)
+Added Component: Designator=R1(RES 1206/3216 RF)
+Added Component: Designator=R2(RES 1206/3216 RF)
+Added Component: Designator=R3(RES 1206/3216 RF)
+Added Component: Designator=R4(RES 1206/3216 RF)
+Added Component: Designator=R5(RES 1206/3216 RF)
+Added Component: Designator=R6(RES 1206/3216 RF)
+Added Component: Designator=R12(RES 1206/3216 RF)
+Added Component: Designator=R13(RES 0603/1608 RF)
+Added Component: Designator=SERVO_A(JST B3B-PH-K)
+Added Component: Designator=SERVO_B(JST B3B-PH-K)
+Added Component: Designator=SPI.0(JST XH B6B-XH-A)
+Added Component: Designator=SPI.0(JST XH B6B-XH-A)
+Added Component: Designator=UART_A(JST B4B-PH-K)
+Added Component: Designator=UART_B(JST B4B-PH-K)
+Added Component: Designator=US0(JST B3B-PH-K)
+Added Component: Designator=US1(JST B3B-PH-K)
+Added Component: Designator=USB0(OST_USB-A1HSW6)
+Added Component: Designator=USB1(OST_USB-A1HSW6)
+Added Component: Designator=USB2(OST_USB-A1HSW6)
+Added Component: Designator=USB_STAT(LED 0603/1608 BLUE)
+Added Component: Designator=Vin(FCI 06-381-2PIN (180))
+Added Component: Designator=X0(XTAL_ECS-120-32-5P-TR)
+Added Pin To Net: NetName=+12 Pin=12Vout_0-1
+Added Pin To Net: NetName=GND Pin=12Vout_0-2
+Added Pin To Net: NetName=+12 Pin=12Vout_1-1
+Added Pin To Net: NetName=GND Pin=12Vout_1-2
+Added Pin To Net: NetName=+12 Pin=12Vout_2-1
+Added Pin To Net: NetName=GND Pin=12Vout_2-2
+Added Pin To Net: NetName=+5 Pin=BOTTON.0-1
+Added Pin To Net: NetName=A_DIO2 Pin=BOTTON.0-2
+Added Pin To Net: NetName=+5 Pin=BOTTON.1-1
+Added Pin To Net: NetName=A_DIO3 Pin=BOTTON.1-2
+Added Pin To Net: NetName=+5 Pin=BZ-1
+Added Pin To Net: NetName=NetBZ_2 Pin=BZ-2
+Added Pin To Net: NetName=+5 Pin=C0-1
+Added Pin To Net: NetName=GND Pin=C0-2
+Added Pin To Net: NetName=+12 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+7.4 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+24 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+5 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3.3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3.3 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=+1.8 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+1.8 Pin=C15-2
+Added Pin To Net: NetName=+12 Pin=CAM LIGHT-1
+Added Pin To Net: NetName=A_DIO7 Pin=CAM LIGHT-2
+Added Pin To Net: NetName=GND Pin=CAM LIGHT-3
+Added Pin To Net: NetName=+5 Pin=DATA_IN-1
+Added Pin To Net: NetName=NetDATA_IN_2 Pin=DATA_IN-2
+Added Pin To Net: NetName=NetDATA_IN_3 Pin=DATA_IN-3
+Added Pin To Net: NetName=GND Pin=DATA_IN-4
+Added Pin To Net: NetName=+24 Pin=DC-DC Regulator 24-5-0
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-5-1
+Added Pin To Net: NetName=+5 Pin=DC-DC Regulator 24-5-2
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-5-3
+Added Pin To Net: NetName=VCC Pin=DC-DC Regulator 24-7.4-0
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-7.4-1
+Added Pin To Net: NetName=+7.4 Pin=DC-DC Regulator 24-7.4-2
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-7.4-3
+Added Pin To Net: NetName=+24 Pin=DC-DC Regulator 24-12-0
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-12-1
+Added Pin To Net: NetName=+12 Pin=DC-DC Regulator 24-12-2
+Added Pin To Net: NetName=GND Pin=DC-DC Regulator 24-12-3
+Added Pin To Net: NetName=+5 Pin=EMS-1
+Added Pin To Net: NetName=A_DIO1 Pin=EMS-2
+Added Pin To Net: NetName=GND Pin=EMS-3
+Added Pin To Net: NetName=+5 Pin=I2C_A-1
+Added Pin To Net: NetName=A_DIO15 Pin=I2C_A-2
+Added Pin To Net: NetName=A_DIO14 Pin=I2C_A-3
+Added Pin To Net: NetName=GND Pin=I2C_A-4
+Added Pin To Net: NetName=A/TX_O Pin=IC0-2
+Added Pin To Net: NetName=GND Pin=IC0-3
+Added Pin To Net: NetName=A/TX_EN Pin=IC0-4
+Added Pin To Net: NetName=+5 Pin=IC0-5
+Added Pin To Net: NetName=A/TX_EN Pin=IC1-1
+Added Pin To Net: NetName=A/TX_O Pin=IC1-2
+Added Pin To Net: NetName=SERVO_DATA Pin=IC1-3
+Added Pin To Net: NetName=A/TX_O Pin=IC1-4
+Added Pin To Net: NetName=SERVO_DATA Pin=IC1-5
+Added Pin To Net: NetName=A_UART.RX Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=A/TX_O Pin=IC1-11
+Added Pin To Net: NetName=A_UART.TX Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=+5 Pin=IC1-14
+Added Pin To Net: NetName=GND Pin=IC2-1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_11 Pin=IC2-11
+Added Pin To Net: NetName=+1.8 Pin=IC2-12
+Added Pin To Net: NetName=+3.3 Pin=IC2-13
+Added Pin To Net: NetName=NetIC2_14 Pin=IC2-14
+Added Pin To Net: NetName=NetDATA_IN_2 Pin=IC2-15
+Added Pin To Net: NetName=NetDATA_IN_3 Pin=IC2-16
+Added Pin To Net: NetName=+3.3 Pin=IC2-17
+Added Pin To Net: NetName=+3.3 Pin=IC2-18
+Added Pin To Net: NetName=+3.3 Pin=IC2-19
+Added Pin To Net: NetName=+5 Pin=IC2-20
+Added Pin To Net: NetName=+3.3 Pin=IC2-21
+Added Pin To Net: NetName=NetIC2_22 Pin=IC2-22
+Added Pin To Net: NetName=+3.3 Pin=IC2-26
+Added Pin To Net: NetName=+1.8 Pin=IC2-28
+Added Pin To Net: NetName=B_AI0 Pin=IR.0-1
+Added Pin To Net: NetName=+5 Pin=IR.0-2
+Added Pin To Net: NetName=GND Pin=IR.0-3
+Added Pin To Net: NetName=B_AI1 Pin=IR.1-1
+Added Pin To Net: NetName=+5 Pin=IR.1-2
+Added Pin To Net: NetName=GND Pin=IR.1-3
+Added Pin To Net: NetName=B_AI2 Pin=IR.2-1
+Added Pin To Net: NetName=+5 Pin=IR.2-2
+Added Pin To Net: NetName=GND Pin=IR.2-3
+Added Pin To Net: NetName=B_AI3 Pin=IR.3-1
+Added Pin To Net: NetName=+5 Pin=IR.3-2
+Added Pin To Net: NetName=GND Pin=IR.3-3
+Added Pin To Net: NetName=NetLT0_1 Pin=LT0-1
+Added Pin To Net: NetName=+12 Pin=LT0-2
+Added Pin To Net: NetName=NetLT1_1 Pin=LT1-1
+Added Pin To Net: NetName=+12 Pin=LT1-2
+Added Pin To Net: NetName=+24 Pin=M0-1
+Added Pin To Net: NetName=GND Pin=M0-2
+Added Pin To Net: NetName=B_DIO1 Pin=M0-3
+Added Pin To Net: NetName=B_DIO0 Pin=M0-4
+Added Pin To Net: NetName=+24 Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=B_DIO3 Pin=M1-3
+Added Pin To Net: NetName=B_DIO2 Pin=M1-4
+Added Pin To Net: NetName=+24 Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=B_DIO5 Pin=M2-3
+Added Pin To Net: NetName=B_DIO4 Pin=M2-4
+Added Pin To Net: NetName=A_AO0 Pin=PORT_A-2
+Added Pin To Net: NetName=A_AI0 Pin=PORT_A-3
+Added Pin To Net: NetName=A_AO1 Pin=PORT_A-4
+Added Pin To Net: NetName=A_AI1 Pin=PORT_A-5
+Added Pin To Net: NetName=GND Pin=PORT_A-6
+Added Pin To Net: NetName=A_AI2 Pin=PORT_A-7
+Added Pin To Net: NetName=GND Pin=PORT_A-8
+Added Pin To Net: NetName=A_AI3 Pin=PORT_A-9
+Added Pin To Net: NetName=A_UART.RX Pin=PORT_A-10
+Added Pin To Net: NetName=A_DIO0 Pin=PORT_A-11
+Added Pin To Net: NetName=GND Pin=PORT_A-12
+Added Pin To Net: NetName=A_DIO1 Pin=PORT_A-13
+Added Pin To Net: NetName=A_UART.TX Pin=PORT_A-14
+Added Pin To Net: NetName=A_DIO2 Pin=PORT_A-15
+Added Pin To Net: NetName=GND Pin=PORT_A-16
+Added Pin To Net: NetName=A_DIO3 Pin=PORT_A-17
+Added Pin To Net: NetName=A_DIO11 Pin=PORT_A-18
+Added Pin To Net: NetName=A_DIO4 Pin=PORT_A-19
+Added Pin To Net: NetName=GND Pin=PORT_A-20
+Added Pin To Net: NetName=A_DIO5 Pin=PORT_A-21
+Added Pin To Net: NetName=A_DIO12 Pin=PORT_A-22
+Added Pin To Net: NetName=A_DIO6 Pin=PORT_A-23
+Added Pin To Net: NetName=GND Pin=PORT_A-24
+Added Pin To Net: NetName=A_DIO7 Pin=PORT_A-25
+Added Pin To Net: NetName=A_DIO13 Pin=PORT_A-26
+Added Pin To Net: NetName=A_DIO8 Pin=PORT_A-27
+Added Pin To Net: NetName=GND Pin=PORT_A-28
+Added Pin To Net: NetName=A_DIO9 Pin=PORT_A-29
+Added Pin To Net: NetName=GND Pin=PORT_A-30
+Added Pin To Net: NetName=A_DIO10 Pin=PORT_A-31
+Added Pin To Net: NetName=A_DIO14 Pin=PORT_A-32
+Added Pin To Net: NetName=A_DIO15 Pin=PORT_A-34
+Added Pin To Net: NetName=B_AO0 Pin=PORT_B-2
+Added Pin To Net: NetName=B_AI0 Pin=PORT_B-3
+Added Pin To Net: NetName=B_AO1 Pin=PORT_B-4
+Added Pin To Net: NetName=B_AI1 Pin=PORT_B-5
+Added Pin To Net: NetName=GND Pin=PORT_B-6
+Added Pin To Net: NetName=B_AI2 Pin=PORT_B-7
+Added Pin To Net: NetName=GND Pin=PORT_B-8
+Added Pin To Net: NetName=B_AI3 Pin=PORT_B-9
+Added Pin To Net: NetName=B_UART.RX Pin=PORT_B-10
+Added Pin To Net: NetName=B_DIO0 Pin=PORT_B-11
+Added Pin To Net: NetName=GND Pin=PORT_B-12
+Added Pin To Net: NetName=B_DIO1 Pin=PORT_B-13
+Added Pin To Net: NetName=B_UART.TX Pin=PORT_B-14
+Added Pin To Net: NetName=B_DIO2 Pin=PORT_B-15
+Added Pin To Net: NetName=GND Pin=PORT_B-16
+Added Pin To Net: NetName=B_DIO3 Pin=PORT_B-17
+Added Pin To Net: NetName=B_DIO11 Pin=PORT_B-18
+Added Pin To Net: NetName=B_DIO4 Pin=PORT_B-19
+Added Pin To Net: NetName=GND Pin=PORT_B-20
+Added Pin To Net: NetName=B_DIO5 Pin=PORT_B-21
+Added Pin To Net: NetName=B_DIO12 Pin=PORT_B-22
+Added Pin To Net: NetName=B_DIO6 Pin=PORT_B-23
+Added Pin To Net: NetName=GND Pin=PORT_B-24
+Added Pin To Net: NetName=B_DIO7 Pin=PORT_B-25
+Added Pin To Net: NetName=B_DIO13 Pin=PORT_B-26
+Added Pin To Net: NetName=B_DIO8 Pin=PORT_B-27
+Added Pin To Net: NetName=GND Pin=PORT_B-28
+Added Pin To Net: NetName=B_DIO9 Pin=PORT_B-29
+Added Pin To Net: NetName=GND Pin=PORT_B-30
+Added Pin To Net: NetName=B_DIO10 Pin=PORT_B-31
+Added Pin To Net: NetName=B_DIO14 Pin=PORT_B-32
+Added Pin To Net: NetName=B_DIO15 Pin=PORT_B-34
+Added Pin To Net: NetName=GND Pin=PORT_C-1
+Added Pin To Net: NetName=GND Pin=PORT_C-2
+Added Pin To Net: NetName=GND Pin=PORT_C-3
+Added Pin To Net: NetName=C_DIO7 Pin=PORT_C-4
+Added Pin To Net: NetName=C_DIO6 Pin=PORT_C-5
+Added Pin To Net: NetName=C_DIO5 Pin=PORT_C-6
+Added Pin To Net: NetName=C_DIO4 Pin=PORT_C-7
+Added Pin To Net: NetName=C_DIO3 Pin=PORT_C-8
+Added Pin To Net: NetName=C_DIO2 Pin=PORT_C-9
+Added Pin To Net: NetName=C_DIO1 Pin=PORT_C-10
+Added Pin To Net: NetName=C_DIO0 Pin=PORT_C-11
+Added Pin To Net: NetName=GND Pin=PORT_C-12
+Added Pin To Net: NetName=A_DIO6 Pin=Q0-1
+Added Pin To Net: NetName=GND Pin=Q0-2
+Added Pin To Net: NetName=NetBZ_2 Pin=Q0-3
+Added Pin To Net: NetName=A_DIO4 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=A_DIO5 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=A/TX_O Pin=R0-1
+Added Pin To Net: NetName=GND Pin=R0-1
+Added Pin To Net: NetName=+5 Pin=R0-2
+Added Pin To Net: NetName=A_DIO6 Pin=R0-2
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=A_DIO4 Pin=R1-2
+Added Pin To Net: NetName=NetIC1_13 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=A_DIO5 Pin=R2-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-1
+Added Pin To Net: NetName=NetLT0_1 Pin=R3-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R4-1
+Added Pin To Net: NetName=NetLT1_1 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=A_DIO3 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=A_DIO2 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetIC2_14 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetIC2_22 Pin=R13-2
+Added Pin To Net: NetName=SERVO_DATA Pin=SERVO_A-1
+Added Pin To Net: NetName=+7.4 Pin=SERVO_A-2
+Added Pin To Net: NetName=GND Pin=SERVO_A-3
+Added Pin To Net: NetName=SERVO_DATA Pin=SERVO_B-1
+Added Pin To Net: NetName=+7.4 Pin=SERVO_B-2
+Added Pin To Net: NetName=GND Pin=SERVO_B-3
+Added Pin To Net: NetName=GND Pin=SPI.0-1
+Added Pin To Net: NetName=GND Pin=SPI.0-1
+Added Pin To Net: NetName=+5 Pin=SPI.0-2
+Added Pin To Net: NetName=+5 Pin=SPI.0-2
+Added Pin To Net: NetName=A_DIO8 Pin=SPI.0-3
+Added Pin To Net: NetName=A_DIO8 Pin=SPI.0-3
+Added Pin To Net: NetName=A_DIO10 Pin=SPI.0-4
+Added Pin To Net: NetName=A_DIO10 Pin=SPI.0-4
+Added Pin To Net: NetName=A_DIO9 Pin=SPI.0-5
+Added Pin To Net: NetName=A_DIO9 Pin=SPI.0-5
+Added Pin To Net: NetName=A_DIO11 Pin=SPI.0-6
+Added Pin To Net: NetName=A_DIO12 Pin=SPI.0-6
+Added Pin To Net: NetName=+5 Pin=UART_A-1
+Added Pin To Net: NetName=A_UART.RX Pin=UART_A-2
+Added Pin To Net: NetName=A_UART.TX Pin=UART_A-3
+Added Pin To Net: NetName=GND Pin=UART_A-4
+Added Pin To Net: NetName=+5 Pin=UART_B-1
+Added Pin To Net: NetName=B_UART.RX Pin=UART_B-2
+Added Pin To Net: NetName=B_UART.TX Pin=UART_B-3
+Added Pin To Net: NetName=GND Pin=UART_B-4
+Added Pin To Net: NetName=B_DIO12 Pin=US0-1
+Added Pin To Net: NetName=+5 Pin=US0-2
+Added Pin To Net: NetName=GND Pin=US0-3
+Added Pin To Net: NetName=B_DIO13 Pin=US1-1
+Added Pin To Net: NetName=+5 Pin=US1-2
+Added Pin To Net: NetName=GND Pin=US1-3
+Added Pin To Net: NetName=+5 Pin=USB0-1
+Added Pin To Net: NetName=NetIC2_6 Pin=USB0-2
+Added Pin To Net: NetName=NetIC2_7 Pin=USB0-3
+Added Pin To Net: NetName=GND Pin=USB0-4
+Added Pin To Net: NetName=+5 Pin=USB1-1
+Added Pin To Net: NetName=NetIC2_8 Pin=USB1-2
+Added Pin To Net: NetName=NetIC2_9 Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=+5 Pin=USB2-1
+Added Pin To Net: NetName=NetIC2_10 Pin=USB2-2
+Added Pin To Net: NetName=NetIC2_11 Pin=USB2-3
+Added Pin To Net: NetName=GND Pin=USB2-4
+Added Pin To Net: NetName=NetR13_1 Pin=USB_STAT-1
+Added Pin To Net: NetName=GND Pin=USB_STAT-2
+Added Pin To Net: NetName=VCC Pin=Vin-1
+Added Pin To Net: NetName=GND Pin=Vin-2
+Added Pin To Net: NetName=NetIC2_3 Pin=X0-1
+Added Pin To Net: NetName=NetIC2_2 Pin=X0-2
+Added Member To Class: ClassName=Main Member=Component 12Vout_0 2 Pin
+Added Member To Class: ClassName=Main Member=Component 12Vout_1 2 Pin
+Added Member To Class: ClassName=Main Member=Component 12Vout_2 2 Pin
+Added Member To Class: ClassName=IO Member=Component BOTTON.0 2 Pin
+Added Member To Class: ClassName=IO Member=Component BOTTON.1 2 Pin
+Added Member To Class: ClassName=BZ&LT Member=Component BZ Buzzer
+Added Member To Class: ClassName=Main Member=Component C0 220uF
+Added Member To Class: ClassName=Main Member=Component C1 220uF
+Added Member To Class: ClassName=Main Member=Component C2 220uF
+Added Member To Class: ClassName=Main Member=Component C3 680uF
+Added Member To Class: ClassName=FE1.Sa Member=Component C10 10uF
+Added Member To Class: ClassName=FE1.Sa Member=Component C11 0.1uF
+Added Member To Class: ClassName=FE1.Sa Member=Component C12 10uF
+Added Member To Class: ClassName=FE1.Sa Member=Component C13 0.1uF
+Added Member To Class: ClassName=FE1.Sa Member=Component C14 10uF
+Added Member To Class: ClassName=FE1.Sa Member=Component C15 0.1uF
+Added Member To Class: ClassName=IO Member=Component CAM LIGHT Header
+Added Member To Class: ClassName=FE1.Sa Member=Component DATA_IN 4 Pin
+Added Member To Class: ClassName=Main Member=Component DC-DC Regulator 24-5 Component_0
+Added Member To Class: ClassName=Main Member=Component DC-DC Regulator 24-7.4 Component_1
+Added Member To Class: ClassName=Main Member=Component DC-DC Regulator 24-12 Component_1
+Added Member To Class: ClassName=IO Member=Component EMS Header
+Added Member To Class: ClassName=IO Member=Component I2C_A 4 Pin
+Added Member To Class: ClassName=UART-One Wire Member=Component IC0 SN74AHC1G04
+Added Member To Class: ClassName=UART-One Wire Member=Component IC1 SN74HC126D
+Added Member To Class: ClassName=FE1.Sa Member=Component IC2 FE1.1S
+Added Member To Class: ClassName=IO Member=Component IR.0 Header
+Added Member To Class: ClassName=IO Member=Component IR.1 Header
+Added Member To Class: ClassName=IO Member=Component IR.2 Header
+Added Member To Class: ClassName=IO Member=Component IR.3 Header
+Added Member To Class: ClassName=BZ&LT Member=Component LT0 2 Pin
+Added Member To Class: ClassName=BZ&LT Member=Component LT1 2 Pin
+Added Member To Class: ClassName=IO Member=Component M0 XT30(2+2)
+Added Member To Class: ClassName=IO Member=Component M1 XT30(2+2)
+Added Member To Class: ClassName=IO Member=Component M2 XT30(2+2)
+Added Member To Class: ClassName=IO Member=Component PORT_A 2x17 Pin
+Added Member To Class: ClassName=IO Member=Component PORT_B 2x17 Pin
+Added Member To Class: ClassName=IO Member=Component PORT_C 12 Pin
+Added Member To Class: ClassName=BZ&LT Member=Component Q0 2N7002
+Added Member To Class: ClassName=BZ&LT Member=Component Q1 2N7002
+Added Member To Class: ClassName=BZ&LT Member=Component Q2 2N7002
+Added Member To Class: ClassName=BZ&LT Member=Component R0 10K
+Added Member To Class: ClassName=UART-One Wire Member=Component R0 1K
+Added Member To Class: ClassName=BZ&LT Member=Component R1 10K
+Added Member To Class: ClassName=UART-One Wire Member=Component R1 10K
+Added Member To Class: ClassName=BZ&LT Member=Component R2 10K
+Added Member To Class: ClassName=BZ&LT Member=Component R3 1K
+Added Member To Class: ClassName=BZ&LT Member=Component R4 1K
+Added Member To Class: ClassName=IO Member=Component R5 10K
+Added Member To Class: ClassName=IO Member=Component R6 10K
+Added Member To Class: ClassName=FE1.Sa Member=Component R12 2.7K
+Added Member To Class: ClassName=FE1.Sa Member=Component R13 330
+Added Member To Class: ClassName=UART-One Wire Member=Component SERVO_A Header
+Added Member To Class: ClassName=UART-One Wire Member=Component SERVO_B Header
+Added Member To Class: ClassName=IO Member=Component SPI.0 6 Pin
+Added Member To Class: ClassName=IO Member=Component UART_A 4 Pin
+Added Member To Class: ClassName=IO Member=Component UART_B 4 Pin
+Added Member To Class: ClassName=IO Member=Component US0 Header
+Added Member To Class: ClassName=IO Member=Component US1 Header
+Added Member To Class: ClassName=FE1.Sa Member=Component USB0 USB-A1HSW6
+Added Member To Class: ClassName=FE1.Sa Member=Component USB1 USB-A1HSW6
+Added Member To Class: ClassName=FE1.Sa Member=Component USB2 USB-A1HSW6
+Added Member To Class: ClassName=FE1.Sa Member=Component USB_STAT Green
+Added Member To Class: ClassName=Main Member=Component Vin 2 Pin
+Added Member To Class: ClassName=FE1.Sa Member=Component X0 12MHZ

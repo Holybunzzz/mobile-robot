@@ -1,0 +1,18 @@
+Added Component: Designator=USB0(OST_USB-A1HSW6)
+Added Component: Designator=USB1(OST_USB-A1HSW6)
+Added Component: Designator=USB2(OST_USB-A1HSW6)
+Added Pin To Net: NetName=+5 Pin=USB0-1
+Added Pin To Net: NetName=NetIC2_6 Pin=USB0-2
+Added Pin To Net: NetName=NetIC2_7 Pin=USB0-3
+Added Pin To Net: NetName=GND Pin=USB0-4
+Added Pin To Net: NetName=+5 Pin=USB1-1
+Added Pin To Net: NetName=NetIC2_8 Pin=USB1-2
+Added Pin To Net: NetName=NetIC2_9 Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=+5 Pin=USB2-1
+Added Pin To Net: NetName=NetIC2_10 Pin=USB2-2
+Added Pin To Net: NetName=NetIC2_11 Pin=USB2-3
+Added Pin To Net: NetName=GND Pin=USB2-4
+Added Member To Class: ClassName=FE1.Sa Member=Component USB0 USB-A1HSW6
+Added Member To Class: ClassName=FE1.Sa Member=Component USB1 USB-A1HSW6
+Added Member To Class: ClassName=FE1.Sa Member=Component USB2 USB-A1HSW6

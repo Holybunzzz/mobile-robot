@@ -1,0 +1,10 @@
+Added Component: Designator=C_DIO6(JST B3B-PH-K)
+Added Component: Designator=C_DIO7(JST B3B-PH-K)
+Added Pin To Net: NetName=C_DIO6 Pin=C_DIO6-1
+Added Pin To Net: NetName=+5 Pin=C_DIO6-2
+Added Pin To Net: NetName=GND Pin=C_DIO6-3
+Added Pin To Net: NetName=C_DIO7 Pin=C_DIO7-1
+Added Pin To Net: NetName=+5 Pin=C_DIO7-2
+Added Pin To Net: NetName=GND Pin=C_DIO7-3
+Added Member To Class: ClassName=IO Member=Component C_DIO6 Header
+Added Member To Class: ClassName=IO Member=Component C_DIO7 Header

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=B_DIO12 Pin=US0-1
+Removed Pin From Net: NetName=B_DIO13 Pin=US1-1
+Added Component: Designator=M0.ENC(JST XH B4B-XH-A)
+Added Component: Designator=M1.ENC(JST XH B4B-XH-A)
+Added Component: Designator=M2.ENC(JST XH B4B-XH-A)
+Added Component: Designator=M2(XT30PB(2+2))
+Added Component: Designator=M3.ENC(JST XH B4B-XH-A)
+Added Pin To Net: NetName=+5 Pin=M0.ENC-1
+Added Pin To Net: NetName=B_DIO8 Pin=M0.ENC-2
+Added Pin To Net: NetName=B_DIO9 Pin=M0.ENC-3
+Added Pin To Net: NetName=GND Pin=M0.ENC-4
+Added Pin To Net: NetName=+5 Pin=M1.ENC-1
+Added Pin To Net: NetName=B_DIO10 Pin=M1.ENC-2
+Added Pin To Net: NetName=B_DIO11 Pin=M1.ENC-3
+Added Pin To Net: NetName=GND Pin=M1.ENC-4
+Added Pin To Net: NetName=+24 Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=B_DIO7 Pin=M2-3
+Added Pin To Net: NetName=B_DIO6 Pin=M2-4
+Added Pin To Net: NetName=+5 Pin=M2.ENC-1
+Added Pin To Net: NetName=B_DIO12 Pin=M2.ENC-2
+Added Pin To Net: NetName=B_DIO13 Pin=M2.ENC-3
+Added Pin To Net: NetName=GND Pin=M2.ENC-4
+Added Pin To Net: NetName=+5 Pin=M3.ENC-1
+Added Pin To Net: NetName=B_DIO14 Pin=M3.ENC-2
+Added Pin To Net: NetName=B_DIO15 Pin=M3.ENC-3
+Added Pin To Net: NetName=GND Pin=M3.ENC-4
+Added Pin To Net: NetName=C_DIO0 Pin=US0-1
+Added Pin To Net: NetName=C_DIO1 Pin=US1-1
+Added Member To Class: ClassName=Main Member=Component D2 Green
+Added Member To Class: ClassName=IO Member=Component IR.3 Header
+Added Member To Class: ClassName=IO Member=Component M0.ENC 4 Pin
+Added Member To Class: ClassName=IO Member=Component M1.ENC 4 Pin
+Added Member To Class: ClassName=IO Member=Component M2.ENC 4 Pin
+Added Member To Class: ClassName=IO Member=Component M3.ENC 4 Pin

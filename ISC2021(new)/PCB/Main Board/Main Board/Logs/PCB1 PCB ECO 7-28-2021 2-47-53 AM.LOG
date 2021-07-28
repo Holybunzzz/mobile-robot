@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=5V NewDesignator=D2
+Change Component Designator: OldDesignator=7.4V NewDesignator=D1
+Change Component Designator: OldDesignator=12V NewDesignator=D0
+Change Component Designator: OldDesignator=SPI.0 NewDesignator=SPI.1
+Change Component Designator: OldDesignator=USB NewDesignator=USB_STAT
+Added Member To Class: ClassName=IO Member=Component SPI.1 6 Pin

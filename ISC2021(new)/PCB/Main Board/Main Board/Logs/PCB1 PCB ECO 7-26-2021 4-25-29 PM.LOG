@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=5V NewDesignator=D3
+Change Component Designator: OldDesignator=7.4V NewDesignator=D2
+Change Component Designator: OldDesignator=12V NewDesignator=D1
+Change Component Designator: OldDesignator=24V NewDesignator=D0
+Added Pin To Net: NetName=+24 Pin=DC-DC Regulator 24-7.4-0

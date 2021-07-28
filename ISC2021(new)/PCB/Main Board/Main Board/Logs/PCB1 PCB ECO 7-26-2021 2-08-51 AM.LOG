@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R12 Old Footprint=RES 1206/3216 RF New Footprint=RES 0603/1608 RF
+Added Member To Class: ClassName=UART-One Wire Member=Component IC1 SN74HC126D

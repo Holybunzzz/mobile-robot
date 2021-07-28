@@ -1,0 +1,11 @@
+Added Component: Designator=DATA_IN(JST B4B-PH-K)
+Added Component: Designator=IC?(SOP64P600X175-28N)
+Added Pin To Net: NetName=+5 Pin=DATA_IN-1
+Added Pin To Net: NetName=GND Pin=DATA_IN-4
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=+1.8 Pin=IC?-12
+Added Pin To Net: NetName=+3.3 Pin=IC?-13
+Added Pin To Net: NetName=+3.3 Pin=IC?-21
+Added Pin To Net: NetName=+1.8 Pin=IC?-28
+Added Member To Class: ClassName=Main Member=Component C1 220uF
+Added Member To Class: ClassName=FE1.Sa Member=Component IC? FE1.1S

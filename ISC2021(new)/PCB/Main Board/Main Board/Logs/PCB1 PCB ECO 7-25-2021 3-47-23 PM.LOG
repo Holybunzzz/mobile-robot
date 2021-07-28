@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetDATA_IN_2 Pin=DATA_IN-2
+Removed Pin From Net: NetName=NetDATA_IN_3 Pin=DATA_IN-3
+Removed Pin From Net: NetName=GND Pin=DATA_IN-4
+Removed Pin From Net: NetName=VCC Pin=M0-1
+Removed Pin From Net: NetName=VCC Pin=M1-1
+Removed Pin From Net: NetName=VCC Pin=M2-1
+Removed Pin From Net: NetName=+5 Pin=SP-2
+Removed Member From Class: ClassName=FE1.Sa Member=SP
+Change Component Footprint: Designator=R12 Old Footprint=RES 0603/1608 RF New Footprint=RES 1206/3216 RF
+Change Component Designator: OldDesignator=DC-DC Regulator 24-12 NewDesignator=DC-DC Regulator 24-7.4
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Added Component: Designator=X0(XTAL_ECS-120-32-5P-TR)
+Added Pin To Net: NetName=+7.4 Pin=C2-1
+Added Pin To Net: NetName=NetDATA_IN_2 Pin=DATA_IN-2
+Added Pin To Net: NetName=NetDATA_IN_3 Pin=DATA_IN-3
+Added Pin To Net: NetName=+7.4 Pin=DC-DC Regulator 24-7.4-2
+Added Pin To Net: NetName=NetDATA_IN_2 Pin=IC2-15
+Added Pin To Net: NetName=NetDATA_IN_3 Pin=IC2-16
+Added Pin To Net: NetName=+3.3 Pin=IC2-17
+Added Pin To Net: NetName=+3.3 Pin=IC2-18
+Added Pin To Net: NetName=+3.3 Pin=IC2-19
+Added Pin To Net: NetName=+5 Pin=IC2-20
+Added Pin To Net: NetName=+3.3 Pin=IC2-26
+Added Pin To Net: NetName=+24 Pin=M0-1
+Added Pin To Net: NetName=+24 Pin=M1-1
+Added Pin To Net: NetName=+24 Pin=M2-1
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Pin To Net: NetName=NetIC2_2 Pin=X0-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_3 Pin=X0-1
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Net: Name=NetIC2_6
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Net: Name=NetIC2_7
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Net: Name=NetIC2_8
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Net: Name=NetIC2_9
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Net: Name=NetIC2_10
+Added Pin To Net: NetName=NetIC2_11 Pin=IC2-11
+Added Net: Name=NetIC2_11
+Added Pin To Net: NetName=NetIC2_14 Pin=IC2-14
+Added Pin To Net: NetName=NetIC2_14 Pin=R12-2
+Added Net: Name=NetIC2_14
+Added Pin To Net: NetName=NetIC2_22 Pin=IC2-22
+Added Pin To Net: NetName=NetIC2_22 Pin=R13-2
+Added Net: Name=NetIC2_22
+Added Member To Class: ClassName=Main Member=Component DC-DC Regulator 24-12 Component_1
+Added Member To Class: ClassName=FE1.Sa Member=Component X0 12MHZ

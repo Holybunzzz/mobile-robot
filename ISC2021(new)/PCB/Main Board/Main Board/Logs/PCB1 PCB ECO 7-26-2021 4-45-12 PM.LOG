@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5 Pin=DATA_IN-1
+Change Component Designator: OldDesignator=5V NewDesignator=D3
+Change Component Designator: OldDesignator=7.4V NewDesignator=D2
+Change Component Designator: OldDesignator=12V NewDesignator=D1
+Added Member To Class: ClassName=Main Member=Component D0 Green
